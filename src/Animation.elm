@@ -1,6 +1,8 @@
 module Animation
     exposing
-        ( render
+        ( arc
+        , Arc
+        , render
         , interrupt
         , queue
         , wait
